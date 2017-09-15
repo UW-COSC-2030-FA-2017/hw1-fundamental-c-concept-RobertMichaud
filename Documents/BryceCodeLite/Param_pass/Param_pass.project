@@ -93,6 +93,6 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
-    <File Name="main.cpp" ExcludeProjConfig="Debug"/>
+    <File Name="param_pass.cpp"/>
   </VirtualDirectory>
 </CodeLite_Project>
